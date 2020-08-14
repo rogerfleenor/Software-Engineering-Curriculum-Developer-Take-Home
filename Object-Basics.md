@@ -124,6 +124,8 @@ And lastly, `console.log()` each of the values in your object. Don't forget to s
 
 <iframe height="400px" width="100%" src="https://repl.it/@RogerFleenor/studentCode?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
+&nbsp;
+
 Congrats! You have completed this lesson!
 
 &nbsp;
@@ -131,6 +133,8 @@ Congrats! You have completed this lesson!
 ---
 
 ### For more on Objects in JavaScript, visit:
+
+[FreeCodeCamp](https://www.freecodecamp.org/news/a-complete-guide-to-creating-objects-in-javascript-b0e2450655e8/)
 
 [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS#Object-oriented_programming_%E2%80%94_the_basics)
 
