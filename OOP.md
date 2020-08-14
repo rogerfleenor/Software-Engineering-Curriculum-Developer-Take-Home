@@ -1,8 +1,6 @@
 
 # Working with Objects
 
----
-
 ### What is an Object?
 
 A JavaScript object is an unordered collection of data organized by key and value pairs. An object can contain any data structure or data type including funtions! Objects can be used to contain a group of relevant data.
