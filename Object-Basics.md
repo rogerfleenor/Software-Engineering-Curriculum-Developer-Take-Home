@@ -7,7 +7,7 @@
 
 &nbsp;
 
-## 1) What is an Object in Real World?
+## 1) What is an Object in the Real World?
 
 OOP offers us the ability to create objects in our JavaScript program that resembles things in the real world. If we imagine a delivery driver for Uber Eats or Amazon Prime, this can be represented programatically in an object with these contents:
 
