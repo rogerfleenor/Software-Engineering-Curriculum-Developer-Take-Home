@@ -3,8 +3,6 @@
 
 &nbsp;
 
----
-
 ## 1) What is an Object in Real World?
 
 OOP offers us the ability to create objects in our programs that resemble things in the real world. If we imagine a delivery driver for Uber Eats or Amazon Prime, this can be represented programatically in an object with these contents:
@@ -20,8 +18,6 @@ OOP offers us the ability to create objects in our programs that resemble things
 Start thinking about it, we will put it in code at the end of this lesson!
 
 &nbsp;
-
----
 
 ## 2) What is an Object in JavaScript?
 
@@ -85,8 +81,6 @@ customer.getLastPurchase()
 
 &nbsp;
 
----
-
 ## 3) Real World Meets JavaScript
 
 Because Amazon collects a lot of shopping data, relevant customer data for a single customer can be stored in a JavaScript Object. A single customer's data could include:
@@ -107,8 +101,6 @@ Run the below code and comment/uncomment the lines one at a time to see how data
 <iframe height="600px" width="100%" src="https://repl.it/@RogerFleenor/awesomeCustomerObject?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 &nbsp;
-
----
 
 ## 4) Let's make an Object!
 
