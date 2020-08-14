@@ -1,4 +1,8 @@
 
+![Object](https://cdn.lynda.com/course/782146/782146-637286262547385310-16x9.jpg)
+
+&nbsp;
+
 # Object Basics
 
 &nbsp;
@@ -134,5 +138,4 @@ Congrats! You have completed this lesson!
 
 &nbsp;
 
-
-###### Roger Fleenor
+[Roger Fleenor](https://www.linkedin.com/in/rogerfleenor/) 
